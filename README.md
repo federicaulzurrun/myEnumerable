@@ -87,7 +87,7 @@ To utilize the project, you need to have Ruby installed on your computer. You ca
 To run tests, run the following command:
 
 ```sh
-  npm rubocop
+  rubocop
 ```
 
 <!-- AUTHORS -->
